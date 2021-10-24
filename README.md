@@ -5,6 +5,9 @@ a simple python script to generate qrcode to connect to wifi. Very useful for gu
 
 launch the scrip `python3 wifi_qr_code.py` and follow the instruction. 
 
+et voilà:
+![QRCODE](https://github.com/j323m13/wifi_qrcode_generator/blob/main/wifi_test.png "qrCode example)
+
 ## alternative
 
 actually you could just run this command in a terminal and get your qrcode: 
